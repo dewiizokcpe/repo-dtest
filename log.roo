@@ -5,3 +5,11 @@ web mvc setup
 web mvc all --package ~.web
 exit
 // Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2016-12-12 21:32:27
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2016-12-12 21:36:34
+// [failed] entity jpa --class ~.domain.Test
+// [failed] entity jpa --class ~.domain.Testlabse
+entity jpa --class ~.domain.Dewtest
+field string --fieldName nameTest --notNull --sizeMin 2
+web mvc all --package ~.web
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2016-12-12 21:38:37
